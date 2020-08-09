@@ -7,7 +7,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="facebook | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" href="https://www.facebook.com/sanish.manandhar.35"/>
+<a href="https://www.facebook.com/sanish.manandhar.35">
+<img align="left" alt="facebook | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>
+</a>
 <img align="left" alt="linkedIn | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <img align="left" alt="instagram | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/sanish__manandhar/"/>
 <img align="left" alt="gmail | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" href="https://mail.google.com/mail/u/0/#inbox"/>
