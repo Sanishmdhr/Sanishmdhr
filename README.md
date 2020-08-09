@@ -55,10 +55,9 @@
 ### 📕 Latest Blog Posts
 
 <a href="https://medium.com/@sanish.manandhar20/create-a-simple-modal-popup-e5451675edb8">
-<h3>Create a Simple Modal Popup</h3>
+Create a Simple Modal Popup
 </a>
-<br />
 <a href="https://medium.com/@sanish.manandhar20/how-do-i-learn-programming-dcf6fa6c489a">
-<h3>How Do I Learn Programming ?</h3>
+How Do I Learn Programming ?
 </a>
 
