@@ -53,12 +53,19 @@
 
 
 ### 📕 Latest Blog Posts
+<ul>
+  <li>
+    <a href="https://medium.com/@sanish.manandhar20/create-a-simple-modal-popup-e5451675edb8">
+    Create a Simple Modal Popup
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@sanish.manandhar20/how-do-i-learn-programming-dcf6fa6c489a">
+    How Do I Learn Programming ?
+    </a>
+  </li>
 
-<a href="https://medium.com/@sanish.manandhar20/create-a-simple-modal-popup-e5451675edb8">
-Create a Simple Modal Popup
-</a>
-<br/>
-<a href="https://medium.com/@sanish.manandhar20/how-do-i-learn-programming-dcf6fa6c489a">
-How Do I Learn Programming ?
-</a>
+<ul>
+
+
 
