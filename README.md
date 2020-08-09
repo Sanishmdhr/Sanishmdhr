@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanish Manandhar 👋
 
-## I'm a Computer Engineer, Developer, and a Gym Instructor!
+## I'm a Computer Engineer, Developer, and a Fitness Enthusiast!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: To learn more, experience more and be super productive
 - ⚡ Fun fact: I love to exercise and play guitar / sing.
